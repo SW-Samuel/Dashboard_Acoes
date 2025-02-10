@@ -1,4 +1,4 @@
-![enter image description here](https://github.com/SW-Samuel/sales_dash/blob/main/dashboard_sales.png)
+![enter image description here]([https://github.com/SW-Samuel/sales_dash/blob/main/dashboard_sales.png](https://github.com/SW-Samuel/Dashboard_Acoes/blob/main/assets/tela.png))
 
 # Dash Ações B3
 
